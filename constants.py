@@ -3,7 +3,6 @@ import pygame
 #Screen Variables
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
-black = (0, 0, 0)
 
 #Asteroid Variables
 ASTEROID_MIN_RADIUS = 20
